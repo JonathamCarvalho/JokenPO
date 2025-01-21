@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", serif;
+}
+
+body{
+   background: url("./assets/battle.gif");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e90000;
+    min-height: 100vh;
+}
+
+.container{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons{
+    margin-top: 25px;
+    display: flex;
+    gap: 25px;
+}
+
+button{
+    padding: 10px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: opacity 0.5s ease-in-out;
+    margin-bottom: 19px;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+.stone{
+    background-color: #85044b;
+}
+
+.paper{
+    background-color: #bd0058;
+}
+
+.scissors{
+    background-color: #9b3861;
+}
+
+p{
+    padding-top: 8px;
+    font-size: 24px;
+    color: #1b0101;
+}
+
+.result{
+    background-color: #00bd1f;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.player-score span {
+    color:#20f803
+
+}
+.ia-score span {
+    color: #ff0707;
+
+}
+
