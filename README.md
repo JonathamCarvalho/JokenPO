@@ -14,3 +14,16 @@ Se você escolher Tesoura e seu adversário papel, você ganha. Se você escolhe
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="img-css">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="img-javascript">
 
+ <h3 align="center"> Version Computer </h3>
+ 
+<p align="center">
+  <img src="https://github.com/JonathamCarvalho/JokenPO/blob/main/assets/JokenP%C3%B4-computer.png?raw=true" alt="jokenpo-img-version-computer"> 
+  </p>
+  
+<h3 align="center"> Version Mobile </h3>
+
+<p align="center">
+<img src="https://github.com/JonathamCarvalho/JokenPO/blob/main/assets/JokenP%C3%B4-mobile.png?raw=true">
+</p>
+
+<h3> OBS: imagens ilustrativas</h3>
