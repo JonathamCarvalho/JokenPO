@@ -6,6 +6,12 @@ const resultIa = document.querySelector("#result-ia")
 let playerScore = 0
 let MachineScore = 0
 
+const GAME_OPTIONS = {
+    PEDRA: 'pedra', 
+    PAPEL: 'papel', 
+    TESOURA: 'tesoura'
+}
+
 function playHuman(humanChoice) {
    
     playTheGame(humanChoice, playIA())
